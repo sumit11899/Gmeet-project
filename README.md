@@ -35,3 +35,6 @@ on a common white board
 - 
 ## Quick start
 - You will need to have Node.js installed, this project has been tested with Node version 16.15.1
+
+## Install Dependencies
+- npn install
