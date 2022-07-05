@@ -7,6 +7,7 @@ HTML, CSS(Tailwind) and NodeJS.
 the account by which you have logged in, to join the meet. In the meeting the users will be able to chat and work
 on a common white board
 
+![gmeet](https://user-images.githubusercontent.com/95286619/177308659-b9e78f51-dc6b-48d0-98ff-e29ff820df6c.JPG)
 
 ## Features
 
