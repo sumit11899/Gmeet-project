@@ -6,6 +6,7 @@ HTML, CSS(Tailwind) and NodeJS.
   Meetings can be scheduled on a particular date and time and the application will notify you by sending email on
 the account by which you have logged in, to join the meet. In the meeting the users will be able to chat and work
 on a common white board
+![CHEESE!](gmeet.JPG)
 
 ## Features
 
