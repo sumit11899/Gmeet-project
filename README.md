@@ -32,7 +32,7 @@ on a common white board
 - Allow the Camera 📸 Or Microphone 🎤 access to this app
 - Enter Your Name and Creat the Meeting 
 - Share the Meeting Url and Invite Other to Join
-- 
+
 ## Quick start
 - You will need to have Node.js installed, this project has been tested with Node version 16.15.1
 
